@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
   <groupId>com.salesforce</groupId>
-  <artifactId>sfdc-partner-java</artifactId>
-  <version>1.1</version>
+  <artifactId>sfdcmetadatajava</artifactId>
+  <version>1.1.1</version>
   <versioning>
     <snapshot>
       <timestamp>20151114.081042</timestamp>
